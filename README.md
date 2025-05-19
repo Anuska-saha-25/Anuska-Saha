@@ -1,5 +1,7 @@
 #👋 Hello! I'm Anuska Saha
 
+---
+
 Welcome to my GitHub! I'm a Computer Science student specializing in **Artificial Intelligence and Machine Learning**, always on a quest to turn complex data into real-world solutions.
 
 ---
