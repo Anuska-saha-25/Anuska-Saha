@@ -5,7 +5,7 @@
 Welcome to my GitHub! I'm a Computer Science student specializing in **Artificial Intelligence and Machine Learning**, always on a quest to turn complex data into real-world solutions.
 
 ---
-💡 About Me
+## 💡 About Me
 
 - 🎓 Pursuing B.Tech in CSE (AIML) from **Netaji Subhash Engineering College**, Kolkata,West Bengal.
 - 🧠 Enthusiastic about **ML, Deep Learning, and Data-Driven Problem Solving**.
