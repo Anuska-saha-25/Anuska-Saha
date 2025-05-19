@@ -18,13 +18,13 @@ Welcome to my GitHub! I'm a Computer Science student specializing in **Artificia
 ## 🧰 Tech Stack & Tools
 
 **Languages I Use:**  
-`Python` `SQL` `C/C++` `Java`
+`Python`|`SQL`|`C/C++`|`Java`
 
 **ML Libraries & Frameworks:**  
-`Pandas` `NumPy` `Scikit-learn` `Matplotlib` `Seaborn` `TensorFlow` `OpenCV`
+`Pandas`|`NumPy`|`Scikit-learn`|`Matplotlib`|`Seaborn`|`TensorFlow`|`OpenCV`
 
 **Tools & Platforms:**  
-`Jupyter Notebook` `Google Colab` `Git & GitHub` `VS Code` `Kaggle`
+`Jupyter Notebook`|`Google Colab`|`Git & GitHub`|`VS Code`|`Kaggle`
 
 ---
 
