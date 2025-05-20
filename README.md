@@ -31,7 +31,10 @@ Welcome to my GitHub! I'm a Computer Science student specializing in **Artificia
 ## 🌍 Let's Connect
 
 I'm always open to new opportunities, learning, and collaborations.  
-📬 Reach out via LinkedIn : https://www.linkedin.com/in/anuska-saha-76676a2b0/ or ✉️ Email : anuskasaha2021@gmail.com 
+  📬 Reach out via LinkedIn : https://www.linkedin.com/in/anuska-saha-76676a2b0/ 
+or 
+  ✉️ Email : anuskasaha2021@gmail.com 
+  
  Or explore my repositories to see what I’ve been working on!
 
 ---
